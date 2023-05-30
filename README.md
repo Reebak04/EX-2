@@ -57,10 +57,10 @@ while True:
 ## OUTPUT :
 
 ### clientoutput:
-![1aco](https://github.com/Reebak04/EX-2/assets/118364993/9d0082ee-c43d-4002-b923-729fa824f277)
+![co](https://github.com/Reebak04/EX-2/assets/118364993/87587b23-7918-457f-938c-d909b2cf3cc6)
 
 ### serveroutput:
-![1aso](https://github.com/Reebak04/EX-2/assets/118364993/407773cf-fbc6-4895-a3f7-0629e40e6152)
+![so](https://github.com/Reebak04/EX-2/assets/118364993/4384bfc3-2c6a-4286-9f0f-aa44f095844f)
 
 ## RESULT :
 
